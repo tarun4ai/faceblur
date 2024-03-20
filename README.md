@@ -10,7 +10,7 @@ This project demonstrates how to process video files using OpenVINO for object d
 
 ## Installation
 
-First, ensure that you have Python 3.6 or newer installed. You can download Python from [python.org](https://www.python.org/).
+First, ensure that you have Python 3.9 or newer installed. You can download Python from [python.org](https://www.python.org/).
 
 Next, install the required Python packages using pip:
 
